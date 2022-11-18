@@ -1,0 +1,46 @@
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 21px;
+    background: rgb(233, 219, 219);
+    border: 5px solid #244624;
+    font-size:34px;
+    height: 65px;
+    width: 456px;
+}
+
+button{
+    cursor: pointer;
+    border: 3px solid darkcyan;
+    border-radius: 20px;
+    font-size: 40px;
+    background: #e36b6b;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+
+.calculator{ 
+    border: 4px solid #13695d;
+    background-color: #62ff3a;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+    
+}
+body{
+background: url('https://zoknivilag.cdn.shoprenter.hu/custom/zoknivilag/image/cache/w0h0q100np1/spots/gettyimages-843564246-612x612.jpg?v=1589393749');
+background-size: cover;
+}
+h1{
+    font-size: 45px;
+    /* color: rgb(14, 250, 14); */
+    font-family: cursive;
+}
